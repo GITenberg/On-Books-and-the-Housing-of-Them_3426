@@ -1,0 +1,31 @@
+_repo: On-Books-and-the-Housing-of-Them_3426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gladstone, W. E. (William Ewart)
+    aliases:
+    - Gladstone, William Ewart
+    - Gladstone, William E. (William Ewart)
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '1195'
+    url: http://www.gutenberg.org/2009/agents/1195
+    wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Book collecting -- Great Britain'
+- !lcsh 'Library science -- Great Britain'
+- !lcsh 'Books'
+- GITenberg
+title: On Books and the Housing of Them
+url: http://www.gutenberg.org/ebooks/3426
